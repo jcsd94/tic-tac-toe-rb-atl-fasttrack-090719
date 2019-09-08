@@ -1,0 +1,35 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/inherited-cookie-6685/tic-tac-toe-rb-atl-fasttrack-090719/lib/tic_tac_toe.rb": [
+        1,
+        1,
+        null,
+        null,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1567966982
+  }
+}
